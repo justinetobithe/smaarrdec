@@ -1,0 +1,60 @@
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Agricultural Training Institute', 'ATI', 'XI', 'https://ati.da.gov.ph/ati-main/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Davao Integrated Development Program', 'DIDP', '', 'https://www.didp.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Bureau of Agricultural Research', 'BAR', '', 'http://www.bar.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Davao Oriental State College of Science and Technology', 'DOCST', '', 'http://www.doscst.edu.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Bureau of Fisheries and Aquatic Resources', 'BFAR', '', 'https://region11.bfar.da.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Department of Agriculture', 'DA-RFU','XI', 'http://davao.da.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Bureau of Plant Industry-Davao National Crops Research & Development Center', 'BPI-DNCRDC', '', 'http://www.buplant.da.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Department of Environment and Natural
+Resources - Mining and Degraded Areas Rehabilitation Research Center', 'DENR-MDARRC', 'XI', 'https://denr.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('City Government of Davao', '', 'XI', 'https://www.davaocity.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Department of Science and Technology', 'DOST', 'XI', 'https://region11.dost.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Compostela Valley State College', 'CVSC', '', 'https://cvsc.edu.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Department of Tourism', 'DoT', 'XI', 'https://beta.tourism.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Davao del Norte State College', 'DNSC', '', 'http://dnsc.edu.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Department of Trade and Industry', 'DTI', 'XI', 'https://www.dti.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Ecosystems Research and Development Bureau', 'ERDB', '', 'http://erdb.denr.gov.ph/');
+                                                                                                                 
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Kapalong College of Agriculture Sciences and Technology', 'KCAST', '', '');
+                                                                                          
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('National Economic and Development Authority', 'NEDA', 'XI', 'http://rdc11.neda.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Philippine Coconut Authority – Davao
+Research Center', 'PCA-DRC', '', 'https://pca.gov.ph/maps/regions.php?office=region11');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Philippine Council for Agriculture Aquatic and Natural Resources Research And Development', 'PCAARRD', '', 'http://www.pcaarrd.dost.gov.ph/home/portal/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Philippine Fiber Industry Development
+Authority-Regional Field Office XI', 'PhilFIDA', 'XI', 'http://www.philfida.da.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Philippine Rubber Research Institute', 'PRRI', '', 'http://prri.da.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Philippine Science High School - Southern Mindanao Campus', 'PSHSSMC', '', 'http://www.pshs.edu.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Provincial Government of Davao del Norte', 'DavNor', '', 'http://www.davaodelnorte.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Provincial Government of Davao del Sur', 'DavSur', '', 'http://davaodelsur.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Provincial Government of Davao Oriental', 'DavOr', '', 'https://davaooriental.gov.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Southern Philippines Agri-business and Marine and Aquatic School of Technology', 'SPAMAST', '', 'https://spamast.edu.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('University of Southeastern Philippines', 'USeP', '', 'https://www.usep.edu.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('University of the Philippines-Mindanao', 'UP-Min', '', 'https://www2.upmin.edu.ph/');
+                                                                                                                  
+INSERT INTO `agencies`(`agency_name`, `acronym`, `region`, `site_url`) VALUES ('Davao del Sur State College', '', '', 'htps://dssc.edu.ph/');

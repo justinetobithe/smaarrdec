@@ -1,0 +1,9 @@
+INSERT INTO `degrees`(`degree_name`, `acronym`) VALUES ('Master of Arts','MA');
+
+INSERT INTO `degrees`(`degree_name`, `acronym`) VALUES ('Master of Science','MS');
+
+INSERT INTO `degrees`(`degree_name`, `acronym`) VALUES ('Doctor of Philosophy','PhD');
+
+INSERT INTO `degrees`(`degree_name`, `acronym`) VALUES ('Bachelor of Science','BS');
+
+INSERT INTO `degrees`(`degree_name`, `acronym`) VALUES ('Bachelor of Arts','BA');

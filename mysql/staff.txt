@@ -1,0 +1,12 @@
+INSERT INTO `staff`(`fname`, `lname`, `mname`, `suffix`, `image_file`, `position`,`status`) VALUES ('Rey','De Leon','','','rey-de-leon.png','Knowledge Management Cluster Coordinator','1');
+
+INSERT INTO `staff`(`fname`, `lname`, `mname`, `suffix`, `image_file`, `position`,`status`) VALUES ('Evelyn','Gecale','','','evelyn-gecale.png','Technology Transfer Cluster Coordinator','1');
+
+INSERT INTO `staff`(`fname`, `lname`, `mname`, `suffix`, `image_file`, `position`,`status`) VALUES ('Jonnalyn','Sura','','','jonnalyn-sura.png','Science Research Assistant','1');
+
+INSERT INTO `staff`(`fname`, `lname`, `mname`, `suffix`, `image_file`, `position`,`status`) VALUES ('Mariale','Fernandez','','','mariale-fernandez.png','Science Research Assistant','1');
+
+INSERT INTO `staff`(`fname`, `lname`, `mname`, `suffix`, `image_file`, `position`,`status`) VALUES ('Justine Tobithe','Doloiras','','','justine-tobithe-doloiras.png','Science Research Assistant','1');
+
+INSERT INTO `staff`(`fname`, `lname`, `mname`, `suffix`, `image_file`, `position`,`status`) VALUES ('Gilbert','Importante','','','gilbert-importante.png','Consortium Director','1');
+

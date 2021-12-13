@@ -1,0 +1,38 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap'; // SAME PROCESS
+
+
+#app {
+    position: relative;
+    height: 100%;
+}
+
+/* STYLES */
+.ps-error-message {
+    color: rgba(235, 52, 52, 0.8);
+}
+
+/* END STYLES */
+
+/* LOADING CONTAINER */
+.app-loading-container {
+    background: rgba(255, 255, 255, 0.6);
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* END LOADING CONTAINER */

@@ -1,0 +1,25 @@
+INSERT INTO `system_options`(`option_name`, `option_value`) VALUES ('website_name','SMAARRDEC');
+
+INSERT INTO `system_options`(`option_name`, `option_value`) VALUES ('website_logo','logo.png');
+
+INSERT INTO `system_options`(`option_name`, `option_value`) VALUES ('website_footer_copyright_text','© Copyright SMAARRDEC - Since 1987. All Rights Reserved');
+
+INSERT INTO `system_options`(`option_name`, `option_value`) VALUES ('company_email','smaarrdec@gmail.com');
+
+INSERT INTO `system_options`(`option_name`, `option_value`) VALUES ('company_email_name','');
+
+INSERT INTO `system_options`(`option_name`, `option_value`) VALUES ('company_name','Southern Mindanao Agriculture, Aquatic, and Natural Resources Research and Development Consortium');
+
+INSERT INTO `system_options`(`option_name`, `option_value`) VALUES ('company_address','2/f RDE Bldg, University of Southeastern Philippines (USeP), Iñigo St., Bo. Obrero, Davao City');
+
+INSERT INTO `system_options`(`option_name`, `option_value`) VALUES ('company_contact_number','+(082) 321-2000');
+
+INSERT INTO `system_options`(`option_name`, `option_value`) VALUES ('company_fax_number','');
+
+INSERT INTO `system_options`(`option_name`, `option_value`) VALUES ('google_maps','https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1713.4809813473864!2d125.61652272809243!3d7.085389176474339!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMDUnMDUuOSJOIDEyNcKwMzYnNTcuOSJF!5e0!3m2!1sen!2sph!4v1621905213914!5m2!1sen!2sph');
+
+INSERT INTO `system_options`(`option_name`, `option_value`) VALUES ('google_recaptcha_secret','6LfjLDUUAAAAAG8wp9zHdwnJWAiXe58QdPug4yQk');
+
+INSERT INTO `system_options`(`option_name`, `option_value`) VALUES ('google_recaptcha_key','6LfjLDUUAAAAAGBGbfguKbhSiTVEWClN4AdpjO2X');
+
+

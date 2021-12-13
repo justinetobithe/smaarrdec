@@ -1,0 +1,13 @@
+INSERT INTO `post_categories`(`post_category_name`, `post_category_description`,`post_category_slug`, `status`) VALUES ('Webinar', '', 'webinar','1');
+
+INSERT INTO `post_categories`(`post_category_name`, `post_category_description`,`post_category_slug`,`status`) VALUES ('Seminar', '', 'seminar','1'); 
+
+INSERT INTO `post_categories`(`post_category_name`, `post_category_description`,`post_category_slug`,`status`) VALUES ('News', '', 'news','1');
+
+INSERT INTO `post_categories`(`post_category_name`, `post_category_description`,`post_category_slug`,`status`) VALUES ('Media', '', 'media','1');
+
+INSERT INTO `post_categories`(`post_category_name`, `post_category_description`,`post_category_slug`,`status`) VALUES ('Technology', '', 'technology','1');
+
+INSERT INTO `post_categories`(`post_category_name`, `post_category_description`,`post_category_slug`,`status`) VALUES ('Learning Opportunity', '', 'learning-opportunity','1');
+
+INSERT INTO `post_categories`(`post_category_name`, `post_category_description`,`post_category_slug`,`status`) VALUES ('Community', '', 'community','1'); 
